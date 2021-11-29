@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/Biaroxx741/testimonials-grid-section-main
+- Solution URL: https://github.com/LucasAven/testimonials-grid-section-main
 - Live Site URL: https://testimonials-grid-section-example.netlify.app/
 
 ## My process
@@ -34,9 +34,8 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- Flexbox
-- CSS Grid
-- Desktop-first workflow
+- Bootstrap 5
+- Mobile-first workflow
 
 ## Author
 
